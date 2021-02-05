@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+.backgroundPhoto{
+	background-image: url("../images/jackPhoto.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+.whiteText{
+	color: white;
+}
+
+.blackFooter{
+	color: #7F7F7F;
+	background-color: #000000;
+}
+
+.redText{
+	color: darkred;
+}
+
+.blueBackground{
+	background-color: #2D9AB7;
+}
+
+.redBackground{
+	background-color: darkred;
+}
