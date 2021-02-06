@@ -3075,12 +3075,12 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: darkred;
+  color: var(--red);
   text-decoration: none;
 }
 
 .btn-link:hover {
-  color: #410102;
+  color: var(--dark-red);
   text-decoration: underline;
 }
 
