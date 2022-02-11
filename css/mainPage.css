@@ -6,6 +6,18 @@
 	background-size: cover;
 }
 
+.img {
+	margin-left: 5%;
+	height: auto;
+	width: 30%;
+  }
+
+.leftImage {
+	height: auto;
+	width: 25%;
+	margin-right: 5%;
+  }
+
 .whiteText{
 	color: white;
 }
